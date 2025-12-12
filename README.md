@@ -14,12 +14,11 @@ Dieses Repository enthält kleine Gradio-Apps, die unterschiedliche Wege zeigen,
 - [Voraussetzungen](#voraussetzungen)
 - [Setup](#setup)
 - [Überblick über die Beispiele](#überblick-über-die-beispiele)
-- [Gemini konfigurieren](#gemini-konfigurieren)
 - [Anwendungen starten](#anwendungen-starten)
-- [Was Sie erwarten können](#was-sie-erwarten-können)
+- [Hinweise zur Nutzung von Gradio](#hinweise-zur-nutzung-von-gradio)
 - [Troubleshooting](#troubleshooting)
 - [Weiterführende Ressourcen](#weiterführende-ressourcen)
-- [Lizenz](#lizenz)
+
 
 ## Voraussetzungen
 
@@ -104,7 +103,7 @@ uv run gradio_components_blocks.py
 ```
 
 
-## Hinweise zu Nutzung von Gradio
+## Hinweise zur Nutzung von Gradio
 
 Nach dem Start einer Gradio-App:
 
