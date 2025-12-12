@@ -113,7 +113,7 @@ Nach dem Start einer Gradio-App:
 4. **Interaktive UI**: Sie sehen eine webbasierte Benutzeroberfläche mit den definierten Komponenten
 5. **Live-Reload**: Änderungen am Python-Code erfordern einen Neustart der App
 
-### Unterschiede zwischen Interface und Blocks
+**Unterschiede zwischen Interface und Blocks**:
 
 - **`gr.Interface`**: 
   - Schneller Einstieg mit minimaler Konfiguration
