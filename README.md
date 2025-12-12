@@ -7,7 +7,7 @@
 
 Dieses Repository enthält kleine Gradio-Apps, die unterschiedliche Wege zeigen, wie man Python-Funktionen als Weboberfläche bereitstellt – von der einfachen `gr.Interface`-Variante bis zum frei gestaltbaren `gr.Blocks`-Layout.
 
-[Gradio](https://www.gradio.app/) ist ein Python-Framework, mit dem sich interaktive Webanwendungen für Machine Learning und Data Science ohne Frontend-Kenntnisse erstellen lassen. Die Beispiele in diesem Repository zeigen sowohl die Grundlagen als auch fortgeschrittene Techniken.
+[Gradio](https://www.gradio.app/) ist ein Python-Framework, mit dem sich interaktive Webanwendungen (insbesondere für Machine Learning und Data Science) ohne Frontend-Kenntnisse erstellen lassen. Die Beispiele in diesem Repository zeigen sowohl die Grundlagen als auch fortgeschrittene Techniken.
 
 ## Inhaltsverzeichnis
 
